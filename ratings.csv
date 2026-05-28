@@ -1,0 +1,16 @@
+userId,productId,rating
+1,Laptop,5
+1,Phone,4
+1,Headphones,3
+2,Laptop,5
+2,Phone,4
+2,Mouse,5
+3,Headphones,4
+3,Mouse,3
+3,Keyboard,5
+4,Phone,5
+4,Laptop,3
+4,Keyboard,4
+5,Mouse,5
+5,Headphones,4
+5,Monitor,5
